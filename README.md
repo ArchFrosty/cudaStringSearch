@@ -1,4 +1,4 @@
-GPU accelerated string search using Rabin-Karp algorithm. Grep is still faster -.- However, if you were to modify this code to search for multiple strings at the same time, it would eventually be faster.
+GPU accelerated string search using Rabin-Karp algorithm with memory mapping files on Windows. Grep is still faster -.- However, if you were to modify this code to search for multiple strings at the same time, it would eventually be faster.
 
 
 ## DISCLAIMER - please read!
